@@ -1,0 +1,18 @@
+       Smith's Groceries
+
+     2017/12/16	22:36:20
+
+       Cashier: cashier
+          Order # 37
+
+  1.0 Chips (10 oz bag)	$3.3
+  3.0 Sweet Tea	$2.49
+  1.0 Bread (loaf)	$1.98
+
+
+      SUBTOTAL	$12.75
+           TAX	$1.15
+         TOTAL	$13.9
+
+Thank you for shopping with us!
+       Please come again
